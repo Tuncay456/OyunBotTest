@@ -1,4 +1,4 @@
-# Aykhan026
+# Nevarevladim
 Söz oyunu. 7000-dən çox söz ilə
 
 # Qurulum
